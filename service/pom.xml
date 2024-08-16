@@ -48,7 +48,7 @@
         <dependency>
             <groupId>com.arangodb</groupId>
             <artifactId>arangodb-spring-data</artifactId>
-            <version>3.7.0</version>
+            <version>4.0.0</version>
         </dependency>
 
         <dependency>
@@ -116,7 +116,7 @@
                 <configuration>
                     <apiDocsUrl>http://localhost:10375/v3/api-docs</apiDocsUrl>
                     <outputFileName>openapi.json</outputFileName>
-                    <outputDir></outputDir>
+                    <outputDir/>
                 </configuration>
             </plugin>
             <plugin>
