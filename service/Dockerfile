@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk:11
+FROM azul/zulu-openjdk:11.0.30-11.86-jre-headless
 VOLUME /tmp
 VOLUME /target
 
